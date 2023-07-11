@@ -1,0 +1,78 @@
+body {
+    background-color: darkslategrey;
+}
+
+#main {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    right: 25%;
+    color: white;
+}
+
+#meh {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    top: 20%;
+    right: 33%;
+    color: white;
+}
+
+#awww {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 100px;
+    position: absolute;
+    top: 25%;
+    right: 51%;
+    color: white;
+}
+
+#element2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    top: 60%;
+    right: 80%;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+}
+
+#element3 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    top: 60%;
+    right: 10%;
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+}
+
+#element4 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    top: 60%;
+    right: 50%;
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    position: absolute;
+    top: 68%;
+    right: 45%;
+    color: white;
+}
